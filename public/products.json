@@ -1,0 +1,324 @@
+[
+    {
+        "product_id": "1",
+        "product_title": "Ultra Thin Laptop Pro",
+        "product_image": "https://i.ibb.co.com/8PPY0r4/laptop.webp",
+        "category": "Laptops",
+        "price": 1200,
+        "description": "A powerful laptop with an ultra-thin design, perfect for work and play.",
+        "Specification": [
+            "Intel i7 Processor",
+            "16GB RAM",
+            "512GB SSD",
+            "14-inch display"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "2",
+        "product_title": "Gaming Beast Laptop",
+        "product_image": "https://i.ibb.co.com/3k4F0p7/gaming-laptop.jpg",
+        "category": "Laptops",
+        "price": 1500,
+        "description": "High-performance laptop designed for intense gaming sessions.",
+        "Specification": [
+            "Intel i9 Processor",
+            "32GB RAM",
+            "1TB SSD",
+            "17-inch 4K display"
+        ],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": "3",
+        "product_title": "Smartphone X",
+        "product_image": "https://i.ibb.co.com/CPZd5V9/smartphone-x.png",
+        "category": "Phones",
+        "price": 700,
+        "description": "A sleek smartphone with a stunning display and high-end camera.",
+        "Specification": [
+            "6.1-inch OLED display",
+            "128GB Storage",
+            "12MP Camera"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "4",
+        "product_title": "Phone Z Ultra",
+        "product_image": "https://i.ibb.co.com/Rp96brR/Sony-Xperia-ZUltra-1.jpg",
+        "category": "Phones",
+        "price": 800,
+        "description": "Fast and responsive smartphone with advanced features.",
+        "Specification": [
+            "6.5-inch AMOLED display",
+            "256GB Storage",
+            "48MP Camera"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "5",
+        "product_title": "Wireless Earbuds",
+        "product_image": "https://i.ibb.co.com/LQwQq56/wireless-earbuds.jpg",
+        "category": "Accessories",
+        "price": 150,
+        "description": "High-quality wireless earbuds with noise cancellation.",
+        "Specification": [
+            "Bluetooth 5.0",
+            "Noise Cancellation",
+            "24-hour Battery Life"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "6",
+        "product_title": "Portable Power Bank",
+        "product_image": "https://i.ibb.co.com/3BkKSqc/portable-charger-power-banks.webp",
+        "category": "Accessories",
+        "price": 30,
+        "description": "Compact power bank for charging devices on the go.",
+        "Specification": [
+            "10,000mAh capacity",
+            "USB-C",
+            "Fast Charging"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "7",
+        "product_title": "Smart Watch Lite",
+        "product_image": "https://i.ibb.co.com/StXfVs2/smart-watch.png",
+        "category": "Smart Watches",
+        "price": 200,
+        "description": "Lightweight smart watch with essential fitness tracking features.",
+        "Specification": [
+            "Heart Rate Monitor",
+            "GPS",
+            "7-day Battery Life"
+        ],
+        "availability": true,
+        "rating": 4.1
+    },
+    {
+        "product_id": "8",
+        "product_title": "Advanced Smart Watch",
+        "product_image": "https://i.ibb.co.com/dtQyRJz/smartwatchsportsthumbnails.webp",
+        "category": "Smart Watches",
+        "price": 350,
+        "description": "Smart watch with advanced health monitoring and customizable faces.",
+        "Specification": [
+            "ECG",
+            "Blood Oxygen Sensor",
+            "14-day Battery Life"
+        ],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": "9",
+        "product_title": "MacBook Air M1",
+        "product_image": "https://i.ibb.co.com/0Q5985H/macbook-air-m1.jpg",
+        "category": "MacBook",
+        "price": 999,
+        "description": "Lightweight and powerful MacBook with M1 chip.",
+        "Specification": [
+            "Apple M1 Chip",
+            "8GB RAM",
+            "256GB SSD",
+            "13-inch Retina Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "10",
+        "product_title": "MacBook Pro M2",
+        "product_image": "https://i.ibb.co.com/Lt9zXwX/Mac-Book-Pro.jpg",
+        "category": "MacBook",
+        "price": 1299,
+        "description": "High-performance MacBook Pro with M2 chip for professionals.",
+        "Specification": [
+            "Apple M2 Chip",
+            "16GB RAM",
+            "512GB SSD",
+            "13-inch Retina Display"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "11",
+        "product_title": "iPhone 13",
+        "product_image": "https://i.ibb.co.com/5vBQRMV/i-Phone-Thirteen.jpg",
+        "category": "Iphone",
+        "price": 799,
+        "description": "Fast, sleek iPhone with advanced camera features.",
+        "Specification": [
+            "6.1-inch Super Retina XDR",
+            "128GB Storage",
+            "5G Capable"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "12",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/dg7Ymm4/iphone-14-pro.jpg",
+        "category": "Iphone",
+        "price": 999,
+        "description": "Top-end iPhone with enhanced display and camera performance.",
+        "Specification": [
+            "6.1-inch Super Retina XDR",
+            "256GB Storage",
+            "ProMotion Display"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": "13",
+        "product_title": "Student Laptop Basic",
+        "product_image": "https://i.ibb.co.com/db7pt9w/student-laptopp.webp",
+        "category": "Laptops",
+        "price": 450,
+        "description": "Affordable laptop with essential features for students.",
+        "Specification": [
+            "Intel i3 Processor",
+            "8GB RAM",
+            "256GB SSD",
+            "15-inch display"
+        ],
+        "availability": true,
+        "rating": 4.0
+    },
+    {
+        "product_id": "14",
+        "product_title": "Bluetooth Speaker",
+        "product_image": "https://i.ibb.co.com/1sX1D8F/bluetooth-speaker.jpg",
+        "category": "Accessories",
+        "price": 75,
+        "description": "Compact Bluetooth speaker with excellent sound quality.",
+        "Specification": [
+            "Bluetooth 5.0",
+            "10W Output",
+            "8-hour Battery"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "15",
+        "product_title": "Fitness Smart Band",
+        "product_image": "https://i.ibb.co.com/GtDVYP6/fitness-smart-band.webp",
+        "category": "Smart Watches",
+        "price": 60,
+        "description": "Affordable smart band with fitness tracking features.",
+        "Specification": [
+            "Heart Rate Monitor",
+            "Sleep Tracker",
+            "Water Resistant"
+        ],
+        "availability": true,
+        "rating": 4.1
+    },
+    {
+        "product_id": "16",
+        "product_title": "Convertible Touch Laptop",
+        "product_image": "https://i.ibb.co.com/Z2NVLD9/touch-laptop.webp",
+        "category": "Laptops",
+        "price": 900,
+        "description": "Versatile laptop with a convertible touchscreen.",
+        "Specification": [
+            "Intel i5 Processor",
+            "16GB RAM",
+            "512GB SSD",
+            "13-inch Touchscreen"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "17",
+        "product_title": "Smartphone XL",
+        "product_image": "https://i.ibb.co.com/yFBtCtS/smartphone-xl.jpg",
+        "category": "Phones",
+        "price": 850,
+        "description": "Large screen smartphone with excellent battery life.",
+        "Specification": [
+            "6.8-inch AMOLED",
+            "128GB Storage",
+            "6000mAh Battery"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": "18",
+        "product_title": "Wireless Charger Pad",
+        "product_image": "https://i.ibb.co.com/sq2SV5X/charging-pad.jpg",
+        "category": "Accessories",
+        "price": 40,
+        "description": "Quick wireless charging pad for compatible devices.",
+        "Specification": [
+            "10W Charging Speed",
+            "Universal Compatibility",
+            "Slim Design"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "19",
+        "product_title": "Premium Smart Watch",
+        "product_image": "https://i.ibb.co.com/2gZmJ3r/premium-smart-watch.jpg",
+        "category": "Smart Watches",
+        "price": 400,
+        "description": "High-end smart watch with customizable straps and features.",
+        "Specification": [
+            "Blood Oxygen Sensor",
+            "ECG",
+            "10-day Battery Life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "20",
+        "product_title": "MacBook Pro M1 Max",
+        "product_image": "https://i.ibb.co.com/jJhZJwK/macbook-m1-max.jpg",
+        "category": "MacBook",
+        "price": 2499,
+        "description": "Professional-grade MacBook for creators and developers.",
+        "Specification": [
+            "Apple M1 Max Chip",
+            "32GB RAM",
+            "1TB SSD",
+            "16-inch Retina Display"
+        ],
+        "availability": false,
+        "rating": 5.0
+    },
+    {
+        "product_id": "21",
+        "product_title": "iPhone SE",
+        "product_image": "https://i.ibb.co.com/7b5Ws1z/iphone-se.jpg",
+        "category": "iphone",
+        "price": 429,
+        "description": "Compact iPhone with powerful performance.",
+        "Specification": [
+            "4.7-inch Retina HD Display",
+            "64GB Storage",
+            "A15 Bionic Chip"
+        ],
+        "availability": true,
+        "rating": 4.2
+    }
+]
