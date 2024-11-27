@@ -23,38 +23,36 @@ const ViewDetails = () => {
           </p>
         </div>
         {/* Details of Product  */}
-        <div className=" absolute top-[200px] left-[130px] right-[220px] w-[1000px] h-[450px] bg-white  rounded-xl border-2">
+        <div className=" bg-[#ffffff] absolute top-[210px] right-[80px] l-[80px] w-[800px] h-[350px]  bg-opacity-75 rounded-xl border-2 p-6">
           <div className=" rounded-xl  ">
             <div className=" flex flex-row gap-12  ">
               <div>
                 <img
-                  className="w-[380px] h-[380px] p-[20px]"
-                  src={singleProduct.product_image}
-                />
+                  src={singleProduct.product_image}/>
               </div>
               <div>
-                <h1 className="text-[24px] font-bold">
+                <h1 className="">
                   {singleProduct.product_title}
                 </h1>
-                <p className="my-2 text-xl font-bold text-slate-500">
+                <p className="">
                   Price: ${singleProduct.price}
                 </p>
                 <p>{singleProduct.availability}</p>
-                <p className="py-2 text-slate-500 ">
+                <p className=" ">
                   {singleProduct.description}
                 </p>
                 <div>
-                  <h3 className="mb-2 text-xl font-bold text-slate-500">
+                  <h3 className=" ">
                     Specification:
                   </h3>
-                  <p className="w-20 text-slate-500 ">
+                  <p >
                     {singleProduct.Specification}
                   </p>
                 </div>
 
             <div className="flex flex-row gap-3">
             <div>
-              <p className="text-xl font-semibold mt-2 text-slate-500">
+              <p className="text-xl font-semibold  text-slate-500">
                   Ratting:
                 </p>
 

@@ -2,9 +2,9 @@
     {
         "product_id": "1",
         "product_title": "Ultra Thin Laptop Pro",
-        "product_image": "https://i.ibb.co.com/8PPY0r4/laptop.webp",
+        "product_image": "https://i.ibb.co.com/q7P83Wk/download.jpg",
         "category": "Laptops",
-        "price": 1200,
+        "price": 800,
         "description": "A powerful laptop with an ultra-thin design, perfect for work and play.",
         "Specification": [
             "Intel i7 Processor",
@@ -18,9 +18,9 @@
     {
         "product_id": "2",
         "product_title": "Gaming Beast Laptop",
-        "product_image": "https://i.ibb.co.com/3k4F0p7/gaming-laptop.jpg",
+        "product_image": "https://i.ibb.co.com/S06jbhN/download-1.jpg",
         "category": "Laptops",
-        "price": 1500,
+        "price": 1000,
         "description": "High-performance laptop designed for intense gaming sessions.",
         "Specification": [
             "Intel i9 Processor",
@@ -34,9 +34,9 @@
     {
         "product_id": "3",
         "product_title": "Smartphone X",
-        "product_image": "https://i.ibb.co.com/CPZd5V9/smartphone-x.png",
+        "product_image": "https://i.ibb.co.com/xqtv0Qr/download-2.jpg",
         "category": "Phones",
-        "price": 700,
+        "price": 900,
         "description": "A sleek smartphone with a stunning display and high-end camera.",
         "Specification": [
             "6.1-inch OLED display",
@@ -49,9 +49,9 @@
     {
         "product_id": "4",
         "product_title": "Phone Z Ultra",
-        "product_image": "https://i.ibb.co.com/Rp96brR/Sony-Xperia-ZUltra-1.jpg",
+        "product_image": "https://i.ibb.co.com/nm1VfYL/download-3.jpg",
         "category": "Phones",
-        "price": 800,
+        "price": 8500,
         "description": "Fast and responsive smartphone with advanced features.",
         "Specification": [
             "6.5-inch AMOLED display",
@@ -64,9 +64,9 @@
     {
         "product_id": "5",
         "product_title": "Wireless Earbuds",
-        "product_image": "https://i.ibb.co.com/LQwQq56/wireless-earbuds.jpg",
+        "product_image": "https://i.ibb.co.com/VYKMmcB/download-4.jpg",
         "category": "Accessories",
-        "price": 150,
+        "price": 350,
         "description": "High-quality wireless earbuds with noise cancellation.",
         "Specification": [
             "Bluetooth 5.0",
@@ -79,9 +79,9 @@
     {
         "product_id": "6",
         "product_title": "Portable Power Bank",
-        "product_image": "https://i.ibb.co.com/3BkKSqc/portable-charger-power-banks.webp",
+        "product_image": "https://i.ibb.co.com/WnNgL04/download-5.jpg",
         "category": "Accessories",
-        "price": 30,
+        "price": 230,
         "description": "Compact power bank for charging devices on the go.",
         "Specification": [
             "10,000mAh capacity",
@@ -94,9 +94,9 @@
     {
         "product_id": "7",
         "product_title": "Smart Watch Lite",
-        "product_image": "https://i.ibb.co.com/StXfVs2/smart-watch.png",
+        "product_image": "https://i.ibb.co.com/zRKMftc/download-6.jpg",
         "category": "Smart Watches",
-        "price": 200,
+        "price": 280,
         "description": "Lightweight smart watch with essential fitness tracking features.",
         "Specification": [
             "Heart Rate Monitor",
@@ -109,9 +109,9 @@
     {
         "product_id": "8",
         "product_title": "Advanced Smart Watch",
-        "product_image": "https://i.ibb.co.com/dtQyRJz/smartwatchsportsthumbnails.webp",
+        "product_image": "https://i.ibb.co.com/6mnCnZY/download-7.jpg",
         "category": "Smart Watches",
-        "price": 350,
+        "price": 550,
         "description": "Smart watch with advanced health monitoring and customizable faces.",
         "Specification": [
             "ECG",
@@ -124,9 +124,9 @@
     {
         "product_id": "9",
         "product_title": "MacBook Air M1",
-        "product_image": "https://i.ibb.co.com/0Q5985H/macbook-air-m1.jpg",
+        "product_image": "https://i.ibb.co.com/RTTTFjs/download-8.jpg",
         "category": "MacBook",
-        "price": 999,
+        "price": 799,
         "description": "Lightweight and powerful MacBook with M1 chip.",
         "Specification": [
             "Apple M1 Chip",
@@ -140,9 +140,9 @@
     {
         "product_id": "10",
         "product_title": "MacBook Pro M2",
-        "product_image": "https://i.ibb.co.com/Lt9zXwX/Mac-Book-Pro.jpg",
+        "product_image": "https://i.ibb.co.com/dpSZYDw/download-9.jpg",
         "category": "MacBook",
-        "price": 1299,
+        "price": 9997,
         "description": "High-performance MacBook Pro with M2 chip for professionals.",
         "Specification": [
             "Apple M2 Chip",
@@ -156,9 +156,9 @@
     {
         "product_id": "11",
         "product_title": "iPhone 13",
-        "product_image": "https://i.ibb.co.com/5vBQRMV/i-Phone-Thirteen.jpg",
+        "product_image": "https://i.ibb.co.com/1Mq3FJP/download-10.jpg",
         "category": "Iphone",
-        "price": 799,
+        "price": 1050,
         "description": "Fast, sleek iPhone with advanced camera features.",
         "Specification": [
             "6.1-inch Super Retina XDR",
@@ -171,9 +171,9 @@
     {
         "product_id": "12",
         "product_title": "iPhone 14 Pro",
-        "product_image": "https://i.ibb.co.com/dg7Ymm4/iphone-14-pro.jpg",
+        "product_image": "https://i.ibb.co.com/Gkwccp4/download-11.jpg",
         "category": "Iphone",
-        "price": 999,
+        "price": 1250,
         "description": "Top-end iPhone with enhanced display and camera performance.",
         "Specification": [
             "6.1-inch Super Retina XDR",
@@ -186,9 +186,9 @@
     {
         "product_id": "13",
         "product_title": "Student Laptop Basic",
-        "product_image": "https://i.ibb.co.com/db7pt9w/student-laptopp.webp",
+        "product_image": "https://i.ibb.co.com/p00wNTg/download-12.jpg",
         "category": "Laptops",
-        "price": 450,
+        "price":990,
         "description": "Affordable laptop with essential features for students.",
         "Specification": [
             "Intel i3 Processor",
@@ -202,7 +202,7 @@
     {
         "product_id": "14",
         "product_title": "Bluetooth Speaker",
-        "product_image": "https://i.ibb.co.com/1sX1D8F/bluetooth-speaker.jpg",
+        "product_image": "https://i.ibb.co.com/chdLYzK/download-13.jpg",
         "category": "Accessories",
         "price": 75,
         "description": "Compact Bluetooth speaker with excellent sound quality.",
@@ -217,9 +217,9 @@
     {
         "product_id": "15",
         "product_title": "Fitness Smart Band",
-        "product_image": "https://i.ibb.co.com/GtDVYP6/fitness-smart-band.webp",
+        "product_image": "https://i.ibb.co.com/wJvgjyY/download-14.jpg",
         "category": "Smart Watches",
-        "price": 60,
+        "price": 160,
         "description": "Affordable smart band with fitness tracking features.",
         "Specification": [
             "Heart Rate Monitor",
@@ -232,9 +232,9 @@
     {
         "product_id": "16",
         "product_title": "Convertible Touch Laptop",
-        "product_image": "https://i.ibb.co.com/Z2NVLD9/touch-laptop.webp",
+        "product_image": "https://i.ibb.co.com/y48rXJG/download-15.jpg",
         "category": "Laptops",
-        "price": 900,
+        "price": 1050,
         "description": "Versatile laptop with a convertible touchscreen.",
         "Specification": [
             "Intel i5 Processor",
@@ -248,9 +248,9 @@
     {
         "product_id": "17",
         "product_title": "Smartphone XL",
-        "product_image": "https://i.ibb.co.com/yFBtCtS/smartphone-xl.jpg",
+        "product_image": "https://i.ibb.co.com/BCV1dZL/download-16.jpg",
         "category": "Phones",
-        "price": 850,
+        "price": 990,
         "description": "Large screen smartphone with excellent battery life.",
         "Specification": [
             "6.8-inch AMOLED",
@@ -263,9 +263,9 @@
     {
         "product_id": "18",
         "product_title": "Wireless Charger Pad",
-        "product_image": "https://i.ibb.co.com/sq2SV5X/charging-pad.jpg",
+        "product_image": "https://i.ibb.co.com/vcdJW0H/download-17.jpg",
         "category": "Accessories",
-        "price": 40,
+        "price": 250,
         "description": "Quick wireless charging pad for compatible devices.",
         "Specification": [
             "10W Charging Speed",
@@ -278,9 +278,9 @@
     {
         "product_id": "19",
         "product_title": "Premium Smart Watch",
-        "product_image": "https://i.ibb.co.com/2gZmJ3r/premium-smart-watch.jpg",
+        "product_image": "https://i.ibb.co.com/c1fJHV7/download-18.jpg",
         "category": "Smart Watches",
-        "price": 400,
+        "price": 550,
         "description": "High-end smart watch with customizable straps and features.",
         "Specification": [
             "Blood Oxygen Sensor",
@@ -293,9 +293,9 @@
     {
         "product_id": "20",
         "product_title": "MacBook Pro M1 Max",
-        "product_image": "https://i.ibb.co.com/jJhZJwK/macbook-m1-max.jpg",
+        "product_image": "https://i.ibb.co.com/ZYyY0kG/download-19.jpg",
         "category": "MacBook",
-        "price": 2499,
+        "price": 1599,
         "description": "Professional-grade MacBook for creators and developers.",
         "Specification": [
             "Apple M1 Max Chip",
@@ -309,9 +309,9 @@
     {
         "product_id": "21",
         "product_title": "iPhone SE",
-        "product_image": "https://i.ibb.co.com/7b5Ws1z/iphone-se.jpg",
+        "product_image": "https://i.ibb.co.com/0JJbP4H/download-20.jpg",
         "category": "iphone",
-        "price": 429,
+        "price": 29,
         "description": "Compact iPhone with powerful performance.",
         "Specification": [
             "4.7-inch Retina HD Display",
