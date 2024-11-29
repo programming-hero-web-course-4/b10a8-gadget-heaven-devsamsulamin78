@@ -25,21 +25,21 @@ const Cards = ({ product }) => {
   };
 
   return (
-    <div className="mx-auto bg-base-100 h-[440px] border shadow-xl">
-      <figure className="px-8 mt-8">
+    <div className="mx-auto  border bg-gray-100 p-3 rounded-lg">
+      <figure className="">
         <img
-          className="rounded-xl object-cover w-80 h-56"
+          className="rounded-xl object-cover  w-[275px] h-[150px]"
           src={product_image}
           alt="products"
         />
       </figure>
-      <div className="card-body">
-        <h2 className="card-title font-bold">{product_title}</h2>
-        <p>Price: {price}$</p>
+      <div className="mt-3">
+        <h2 className=" font-bold">{product_title}</h2>
+        <p className="mt-3">Price: ${price}</p>
         <div className="card-actions">
           <button
             onClick={handleCardDetail}
-            className="btn btn-outline font-semibold btn-primary rounded-3xl "
+            className="btn btn-outline font-semibold mt-3 w-full btn-primary  "
           >
             View Details
           </button>

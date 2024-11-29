@@ -1,11 +1,27 @@
 import { getCart, removeFromCart } from "../utils/Store";
-// import { FaTrash } from "react-icons/fa";
+
+
+import { useTitle } from "./PageTottle";
+
 
 const Dashboard = () => {
   const cart = getCart();
-
+  useTitle("Dashboard");
   return (
-    <section className="mx-15 my-10">
+    <section className="mx-15 mt-7  mb-7">
+
+  
+<div className=" bg-purple-600 p-5 mb-4">
+     <h2 className="text-center text-white font-bold mb-3"> Dashboard</h2>
+     <p className="text-center text-white">Explore the latest gadgets that will take your experience to the next level. <br />From smart devices to the coolest accessories, we have it all!</p>
+
+
+     <div className="flex gap-3 items-center justify-center mt-5">
+          <button className="btn">Cart</button>
+          <button className="btn">Wishlist</button>
+     </div>
+</div>
+
       <div className="">
         <div>
           {cart.map((product, idx) => (
@@ -36,6 +52,7 @@ const Dashboard = () => {
               </div>
               <button onClick={() => removeFromCart(product.product_id)}>
                 {/* <FaTrash className="text-red-500" /> */}
+                <i className="fa-solid fa-trash"></i>
               </button>
             </div>
           ))}

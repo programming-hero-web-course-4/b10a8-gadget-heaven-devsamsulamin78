@@ -2,7 +2,7 @@ const Footer = () => {
   return (
   
 
-<footer className="bg-neutral  text-neutral-content">
+<footer className="bg-neutral  text-neutral-content mt-6">
 
 <div>
      <h2 className="text-[32px] font-bold text-center pt-8">Gadget Heaven</h2>

@@ -2,12 +2,15 @@ import { useLoaderData } from "react-router-dom";
 import Categories from "../components/Categories";
 import Heading from "../components/Heading";
 import Banner from "../components/Banner";
+
+import { useTitle } from "./PageTottle";
+
+
 const Home = () => {
   const categories = useLoaderData() || [];
-
- 
-
+  useTitle("home");
   return (
+
     <div>
       <div className="bg-purple-600 relative h-[580px] mb-[260px]  px-20 pt-10">
         {/* Heading */}

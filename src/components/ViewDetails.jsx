@@ -1,8 +1,7 @@
 import { useLoaderData, useParams } from "react-router-dom";
-// import { MdOutlineStarBorder } from "react-icons/md";
-// import { MdOutlineShoppingCart } from "react-icons/md";
-// import { GiSelfLove } from "react-icons/gi";
 import { addToCart } from "../utils/Store";
+
+
 const ViewDetails = () => {
   const loadProduct = useLoaderData();
   const { productId } = useParams();
@@ -13,6 +12,11 @@ const ViewDetails = () => {
 
   return (
     <div className="mb-[400px]">
+              
+              <div>
+                  <h1>Dashboard</h1>
+              </div>
+      
       <div className="relative bg-purple-500  rounded-lg">
         <div className="text-center text-white pb-[300px]">
           <h1 className="text-4xl py-5 font-bold">Product Details</h1>
@@ -30,31 +34,35 @@ const ViewDetails = () => {
                 <img
                   src={singleProduct.product_image}/>
               </div>
+
+
+              {/* card content */}
               <div>
-                <h1 className="">
+                <h1 className="text-[22px] font-bold">
                   {singleProduct.product_title}
                 </h1>
-                <p className="">
+                <p className="text-[18px] font-semibold">
                   Price: ${singleProduct.price}
                 </p>
                 <p>{singleProduct.availability}</p>
-                <p className=" ">
+                <p className="text-[18px] ">
                   {singleProduct.description}
                 </p>
                 <div>
-                  <h3 className=" ">
+                  <h3 className="text-[18px]  ">
                     Specification:
                   </h3>
-                  <p >
+                  <p className="text-[18px] " >
                     {singleProduct.Specification}
                   </p>
                 </div>
 
-            <div className="flex flex-row gap-3">
-            <div>
-              <p className="text-xl font-semibold  text-slate-500">
+            <div className="flex flex-row items-center justify-between gap-3">
+            <p className="text-xl font-semibold  text-slate-500">
                   Ratting:
                 </p>
+            <div>
+            
 
               </div>
 
@@ -97,35 +105,15 @@ const ViewDetails = () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                <div className="flex items-center gap-3">
-                  <button onClick={() => { addToCart(singleProduct);
-                    }}
-                    className="btn bg-purple-600 text-white rounded-full"
-                  >
-                    Add To Card <i className="fa-solid fa-cart-shopping"></i>
-                  </button>
+  <div className="flex items-center gap-3">
+  <button onClick={() => { addToCart(singleProduct);}} className="btn bg-purple-600 text-white rounded-full">Add To Card <i className="fa-solid fa-cart-shopping"></i>
+  
+   </button>
                   <i className="fa-regular fa-heart"></i>
                 </div>
               </div>
+
+                          {/* card content */}
             </div>
           </div>
         </div>
