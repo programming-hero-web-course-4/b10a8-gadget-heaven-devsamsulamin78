@@ -10,6 +10,10 @@ const ViewDetails = () => {
     (product) => product.product_id === productId
   );
 
+
+  
+
+
   return (
     <div className="mb-[400px]">
               
